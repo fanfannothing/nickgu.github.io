@@ -52,11 +52,20 @@ baseurl: ""
 #markdown: redcarpet
 markdown: kramdown
 #highlighter: pygments
-highlighter: linguist
 permalink: /:title/
 
 kramdown:
   input: GFM
+  use_coderay: true
+
+coderay:
+  caderay_wrap: div
+  caderay_line_numbers: inline
+  caderay_line_numbers_start: 1
+  caderay_tab_width: 8
+  caderay_bold_every: 10
+  caderay_css: style
+
 
 # The release of Jekyll Now that you're using
 version: v1.0.0
