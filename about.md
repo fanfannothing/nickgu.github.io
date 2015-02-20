@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+我是一个快乐的程序员
 
 ### More Information
+主要兴趣领域
 
-A place to include any other types of information that you'd like to include about yourself. 
+* 机器学习
+* 自然语言处理
+* 业务兴趣：
+ * 搜索
+ * 推荐系统
+* 对于大规模系统架构：感兴趣，但研究不深
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[simiu_0609@163.com](mailto:simiu_0609@163.com)
